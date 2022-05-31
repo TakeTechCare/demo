@@ -1,0 +1,1560 @@
+{
+  "rootTopicKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+  "editorRootTopicKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+  "focusKey": "06493df6-0bc5-4b77-b122-8dd1049aef49",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "a6780135-18e7-4501-ae28-99b335628e9e",
+      "parentKey": "c138b0e3-a130-47bf-8ca4-36e69401f18f",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Pipes"
+        }
+      ]
+    },
+    {
+      "key": "6820afd4-a793-4a86-b0c7-31a4515186f1",
+      "parentKey": "dade648c-552a-48c7-9acc-19e6bf485573",
+      "subKeys": [
+        "03d51090-6fc4-4be2-9ea5-548e953d6538",
+        "60d1d366-a4f1-4a7c-b239-61d675f72aa6"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Ghaging controle module"
+        }
+      ]
+    },
+    {
+      "key": "03d51090-6fc4-4be2-9ea5-548e953d6538",
+      "parentKey": "6820afd4-a793-4a86-b0c7-31a4515186f1",
+      "subKeys": [
+        "43cef8e8-4bc8-47a1-8624-388067feb7a1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "LiFePO4"
+        }
+      ]
+    },
+    {
+      "key": "4f7aff39-f630-4f36-85d9-f5dbaa503da1",
+      "parentKey": "c56adea2-8104-4f3d-abe1-f908e08843ec",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "kitchen"
+        }
+      ]
+    },
+    {
+      "key": "3a01c699-f1a2-4184-a006-06f30de0507a",
+      "parentKey": "85463c42-9806-4c41-9975-7211c57d1740",
+      "subKeys": [
+        "4142809e-5cc1-4b08-b0ec-db77d910aed1",
+        "6cc1b9e6-a194-41b3-89b0-5d46d98e4c8b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Alluminium Foil "
+        }
+      ]
+    },
+    {
+      "key": "e364ea1b-d1fb-4f5d-9692-a63dde2379fc",
+      "parentKey": "c8f32e6e-a4c8-4571-8917-9e97ba4fa32d",
+      "subKeys": [
+        "4d2d78bc-e68c-48b2-835d-50dbc609fe62",
+        "0a00b956-ae2d-4d5c-b1b1-0e4b5b62c2e2",
+        "6a7984f3-fc11-472e-8907-ab756943689b",
+        "614d70ab-d567-4988-b895-bcd20688b000"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Panel"
+        }
+      ]
+    },
+    {
+      "key": "4d2d78bc-e68c-48b2-835d-50dbc609fe62",
+      "parentKey": "e364ea1b-d1fb-4f5d-9692-a63dde2379fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Wood plank"
+        }
+      ]
+    },
+    {
+      "key": "6cc1b9e6-a194-41b3-89b0-5d46d98e4c8b",
+      "parentKey": "3a01c699-f1a2-4184-a006-06f30de0507a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "cover 300um"
+        }
+      ]
+    },
+    {
+      "key": "dade648c-552a-48c7-9acc-19e6bf485573",
+      "parentKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "subKeys": [
+        "6820afd4-a793-4a86-b0c7-31a4515186f1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Power supply"
+        }
+      ]
+    },
+    {
+      "key": "25de4a36-8c97-4eff-96b5-92db375ac5cd",
+      "parentKey": "43cef8e8-4bc8-47a1-8624-388067feb7a1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "solar panels"
+        }
+      ]
+    },
+    {
+      "key": "ca14ab6e-7860-45e0-8820-8382ca3dba55",
+      "parentKey": "c56adea2-8104-4f3d-abe1-f908e08843ec",
+      "subKeys": [
+        "27df7733-18f5-448b-a086-8878d751bde8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Bed"
+        }
+      ]
+    },
+    {
+      "key": "7844c735-36ff-4b5f-88fb-02fb819c4ffc",
+      "parentKey": "4142809e-5cc1-4b08-b0ec-db77d910aed1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "50um"
+        }
+      ]
+    },
+    {
+      "key": "614d70ab-d567-4988-b895-bcd20688b000",
+      "parentKey": "e364ea1b-d1fb-4f5d-9692-a63dde2379fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Cork"
+        }
+      ]
+    },
+    {
+      "key": "c56adea2-8104-4f3d-abe1-f908e08843ec",
+      "parentKey": "7b68eb7b-46fc-489f-a1b3-4207ae81ef4d",
+      "subKeys": [
+        "ca14ab6e-7860-45e0-8820-8382ca3dba55",
+        "a5e0524c-506b-4a76-857e-74353ed440c7",
+        "4f7aff39-f630-4f36-85d9-f5dbaa503da1",
+        "38c7c0b6-3e73-459e-a2d5-5413c4bb2a02"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Rails fixation"
+        }
+      ]
+    },
+    {
+      "key": "9f46115e-934c-457d-85e7-a5e8c54ef301",
+      "parentKey": "85463c42-9806-4c41-9975-7211c57d1740",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Cork"
+        }
+      ]
+    },
+    {
+      "key": "c8f32e6e-a4c8-4571-8917-9e97ba4fa32d",
+      "parentKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "subKeys": [
+        "85463c42-9806-4c41-9975-7211c57d1740",
+        "3901cae9-6a97-4af0-a107-a5968b880799",
+        "e364ea1b-d1fb-4f5d-9692-a63dde2379fc"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Insulation"
+        }
+      ]
+    },
+    {
+      "key": "4142809e-5cc1-4b08-b0ec-db77d910aed1",
+      "parentKey": "3a01c699-f1a2-4184-a006-06f30de0507a",
+      "subKeys": [
+        "7844c735-36ff-4b5f-88fb-02fb819c4ffc"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "interior"
+        }
+      ]
+    },
+    {
+      "key": "06493df6-0bc5-4b77-b122-8dd1049aef49",
+      "parentKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Plumbing"
+        }
+      ]
+    },
+    {
+      "key": "85463c42-9806-4c41-9975-7211c57d1740",
+      "parentKey": "c8f32e6e-a4c8-4571-8917-9e97ba4fa32d",
+      "subKeys": [
+        "3a01c699-f1a2-4184-a006-06f30de0507a",
+        "9f46115e-934c-457d-85e7-a5e8c54ef301",
+        "6ffa4b82-98c6-4b03-b491-45e53097aeaf"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Layers"
+        }
+      ]
+    },
+    {
+      "key": "3901cae9-6a97-4af0-a107-a5968b880799",
+      "parentKey": "c8f32e6e-a4c8-4571-8917-9e97ba4fa32d",
+      "subKeys": [
+        "22469961-72e4-40cc-9f42-fd07d11175bd",
+        "1c1564d4-ee2f-4a83-9f3d-a35055208f16"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "fixations"
+        }
+      ]
+    },
+    {
+      "key": "27df7733-18f5-448b-a086-8878d751bde8",
+      "parentKey": "ca14ab6e-7860-45e0-8820-8382ca3dba55",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Level adjustable"
+        }
+      ]
+    },
+    {
+      "key": "6a7984f3-fc11-472e-8907-ab756943689b",
+      "parentKey": "e364ea1b-d1fb-4f5d-9692-a63dde2379fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Coton fabric"
+        }
+      ]
+    },
+    {
+      "key": "c138b0e3-a130-47bf-8ca4-36e69401f18f",
+      "parentKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "subKeys": [
+        "a6780135-18e7-4501-ae28-99b335628e9e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Câbling"
+        }
+      ]
+    },
+    {
+      "key": "48dbc366-232f-4377-bfe1-aa717703e034",
+      "parentKey": "43cef8e8-4bc8-47a1-8624-388067feb7a1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "AC DC"
+        }
+      ]
+    },
+    {
+      "key": "22469961-72e4-40cc-9f42-fd07d11175bd",
+      "parentKey": "3901cae9-6a97-4af0-a107-a5968b880799",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Wood lath"
+        }
+      ]
+    },
+    {
+      "key": "a5e0524c-506b-4a76-857e-74353ed440c7",
+      "parentKey": "c56adea2-8104-4f3d-abe1-f908e08843ec",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "workspace"
+        }
+      ]
+    },
+    {
+      "key": "2595815a-8994-4ac3-ab05-d65ba344e480",
+      "parentKey": "60d1d366-a4f1-4a7c-b239-61d675f72aa6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Alternator"
+        }
+      ]
+    },
+    {
+      "key": "1c1564d4-ee2f-4a83-9f3d-a35055208f16",
+      "parentKey": "3901cae9-6a97-4af0-a107-a5968b880799",
+      "subKeys": [
+        "f0f446e3-5629-4289-9f63-a31abea058a1"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Alluminium Lath"
+        }
+      ]
+    },
+    {
+      "key": "43cef8e8-4bc8-47a1-8624-388067feb7a1",
+      "parentKey": "03d51090-6fc4-4be2-9ea5-548e953d6538",
+      "subKeys": [
+        "25de4a36-8c97-4eff-96b5-92db375ac5cd",
+        "48dbc366-232f-4377-bfe1-aa717703e034"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MPPT"
+        }
+      ]
+    },
+    {
+      "key": "7b68eb7b-46fc-489f-a1b3-4207ae81ef4d",
+      "parentKey": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "subKeys": [
+        "c56adea2-8104-4f3d-abe1-f908e08843ec"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Furnish interchangeable"
+        },
+        {
+          "type": "TOPOLOGY",
+          "data": {
+            "nodes": [],
+            "lines": [],
+            "lineName": "curve",
+            "fromArrowType": "",
+            "toArrowType": "triangleSolid",
+            "scale": 1,
+            "locked": 0
+          }
+        }
+      ]
+    },
+    {
+      "key": "38c7c0b6-3e73-459e-a2d5-5413c4bb2a02",
+      "parentKey": "c56adea2-8104-4f3d-abe1-f908e08843ec",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "WC"
+        }
+      ]
+    },
+    {
+      "key": "0a00b956-ae2d-4d5c-b1b1-0e4b5b62c2e2",
+      "parentKey": "e364ea1b-d1fb-4f5d-9692-a63dde2379fc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " Alluminium foil 300um"
+        }
+      ]
+    },
+    {
+      "key": "60d1d366-a4f1-4a7c-b239-61d675f72aa6",
+      "parentKey": "6820afd4-a793-4a86-b0c7-31a4515186f1",
+      "subKeys": [
+        "2595815a-8994-4ac3-ab05-d65ba344e480"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Van Battery"
+        }
+      ]
+    },
+    {
+      "key": "f0f446e3-5629-4289-9f63-a31abea058a1",
+      "parentKey": "1c1564d4-ee2f-4a83-9f3d-a35055208f16",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "1mm - 1.5mm"
+        }
+      ]
+    },
+    {
+      "key": "6ffa4b82-98c6-4b03-b491-45e53097aeaf",
+      "parentKey": "85463c42-9806-4c41-9975-7211c57d1740",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Coton"
+        }
+      ]
+    },
+    {
+      "key": "e6eb65dd-dc32-4f27-b9eb-f812414af556",
+      "parentKey": null,
+      "subKeys": [
+        "c8f32e6e-a4c8-4571-8917-9e97ba4fa32d",
+        "dade648c-552a-48c7-9acc-19e6bf485573",
+        "06493df6-0bc5-4b77-b122-8dd1049aef49",
+        "7b68eb7b-46fc-489f-a1b3-4207ae81ef4d",
+        "c138b0e3-a130-47bf-8ca4-36e69401f18f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Domovan"
+        },
+        {
+          "type": "TOPOLOGY",
+          "data": {
+            "nodes": [
+              {
+                "id": "981dcfe7",
+                "name": "circle",
+                "tags": [],
+                "rect": {
+                  "x": 466,
+                  "y": 188,
+                  "width": 100,
+                  "height": 100,
+                  "center": {
+                    "x": 516,
+                    "y": 238
+                  },
+                  "ex": 566,
+                  "ey": 288
+                },
+                "lineWidth": 1,
+                "rotate": 0,
+                "offsetRotate": 0,
+                "globalAlpha": 1,
+                "dash": 0,
+                "strokeStyle": "#222",
+                "fillStyle": "",
+                "font": {
+                  "color": "#222",
+                  "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+                  "fontSize": 12,
+                  "lineHeight": 1.5,
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                  "textAlign": "center",
+                  "textBaseline": "middle",
+                  "background": ""
+                },
+                "animateStart": 0,
+                "animateCycleIndex": 0,
+                "lineDashOffset": 0,
+                "text": "circle",
+                "textMaxLine": 1,
+                "textOffsetX": 0,
+                "textOffsetY": 0,
+                "animateType": "",
+                "data": "",
+                "zRotate": 0,
+                "anchors": [
+                  {
+                    "x": 466,
+                    "y": 238,
+                    "direction": 4
+                  },
+                  {
+                    "x": 516,
+                    "y": 188,
+                    "direction": 1
+                  },
+                  {
+                    "x": 566,
+                    "y": 238,
+                    "direction": 2
+                  },
+                  {
+                    "x": 516,
+                    "y": 288,
+                    "direction": 3
+                  },
+                  {
+                    "x": 520.357787137383,
+                    "y": 287.8097349045873,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 524.6824088833465,
+                    "y": 287.2403876506104,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 528.940952255126,
+                    "y": 286.2962913144534,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 533.1010071662835,
+                    "y": 284.98463103929544,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 537.130913087035,
+                    "y": 283.3153893518325,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 541,
+                    "y": 281.30127018922195,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 544.6788218175523,
+                    "y": 278.9576022144496,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 548.1393804843269,
+                    "y": 276.3022221559489,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 551.3553390593273,
+                    "y": 273.3553390593274,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 554.3022221559489,
+                    "y": 270.139380484327,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 556.9576022144496,
+                    "y": 266.6788218175523,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 559.3012701892219,
+                    "y": 263,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 561.3153893518324,
+                    "y": 259.13091308703497,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 562.9846310392954,
+                    "y": 255.10100716628344,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 564.2962913144534,
+                    "y": 250.94095225512604,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.2403876506104,
+                    "y": 246.6824088833465,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.8097349045872,
+                    "y": 242.35778713738293,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.8097349045872,
+                    "y": 233.6422128626171,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.2403876506104,
+                    "y": 229.3175911166535,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 564.2962913144534,
+                    "y": 225.05904774487396,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 562.9846310392954,
+                    "y": 220.89899283371656,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 561.3153893518326,
+                    "y": 216.86908691296503,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 559.3012701892219,
+                    "y": 213,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 556.9576022144496,
+                    "y": 209.3211781824477,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 554.3022221559489,
+                    "y": 205.86061951567302,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 551.3553390593274,
+                    "y": 202.64466094067262,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 548.1393804843269,
+                    "y": 199.6977778440511,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 544.6788218175523,
+                    "y": 197.0423977855504,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 541,
+                    "y": 194.69872981077805,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 537.130913087035,
+                    "y": 192.6846106481675,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 533.1010071662835,
+                    "y": 191.0153689607046,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 528.940952255126,
+                    "y": 189.7037086855466,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 524.6824088833465,
+                    "y": 188.7596123493896,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 520.357787137383,
+                    "y": 188.1902650954127,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 511.6422128626171,
+                    "y": 188.1902650954127,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 507.3175911166535,
+                    "y": 188.7596123493896,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 503.05904774487396,
+                    "y": 189.7037086855466,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 498.8989928337166,
+                    "y": 191.01536896070456,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 494.86908691296503,
+                    "y": 192.6846106481675,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 491,
+                    "y": 194.69872981077808,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 487.32117818244774,
+                    "y": 197.0423977855504,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 483.860619515673,
+                    "y": 199.6977778440511,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 480.6446609406726,
+                    "y": 202.64466094067262,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 477.6977778440511,
+                    "y": 205.86061951567302,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 475.0423977855504,
+                    "y": 209.32117818244768,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 472.6987298107781,
+                    "y": 212.99999999999997,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 470.6846106481675,
+                    "y": 216.86908691296503,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 469.01536896070456,
+                    "y": 220.89899283371653,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 467.7037086855466,
+                    "y": 225.05904774487396,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.7596123493896,
+                    "y": 229.3175911166535,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.1902650954127,
+                    "y": 233.6422128626171,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.1902650954127,
+                    "y": 242.3577871373829,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.7596123493896,
+                    "y": 246.6824088833465,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 467.7037086855466,
+                    "y": 250.940952255126,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 469.01536896070456,
+                    "y": 255.10100716628344,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 470.6846106481675,
+                    "y": 259.13091308703497,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 472.69872981077805,
+                    "y": 263,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 475.0423977855504,
+                    "y": 266.6788218175523,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 477.6977778440511,
+                    "y": 270.139380484327,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 480.6446609406726,
+                    "y": 273.3553390593274,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 483.860619515673,
+                    "y": 276.30222215594887,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 487.3211781824477,
+                    "y": 278.9576022144496,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 491,
+                    "y": 281.3012701892219,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 494.86908691296503,
+                    "y": 283.3153893518325,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 498.89899283371653,
+                    "y": 284.98463103929544,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 503.05904774487396,
+                    "y": 286.2962913144534,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 507.3175911166535,
+                    "y": 287.2403876506104,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 511.6422128626171,
+                    "y": 287.8097349045873,
+                    "direction": 3,
+                    "hidden": true
+                  }
+                ],
+                "rotatedAnchors": [
+                  {
+                    "x": 466,
+                    "y": 238,
+                    "direction": 4
+                  },
+                  {
+                    "x": 516,
+                    "y": 188,
+                    "direction": 1
+                  },
+                  {
+                    "x": 566,
+                    "y": 238,
+                    "direction": 2
+                  },
+                  {
+                    "x": 516,
+                    "y": 288,
+                    "direction": 3
+                  },
+                  {
+                    "x": 520.357787137383,
+                    "y": 287.8097349045873,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 524.6824088833465,
+                    "y": 287.2403876506104,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 528.940952255126,
+                    "y": 286.2962913144534,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 533.1010071662835,
+                    "y": 284.98463103929544,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 537.130913087035,
+                    "y": 283.3153893518325,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 541,
+                    "y": 281.30127018922195,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 544.6788218175523,
+                    "y": 278.9576022144496,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 548.1393804843269,
+                    "y": 276.3022221559489,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 551.3553390593273,
+                    "y": 273.3553390593274,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 554.3022221559489,
+                    "y": 270.139380484327,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 556.9576022144496,
+                    "y": 266.6788218175523,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 559.3012701892219,
+                    "y": 263,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 561.3153893518324,
+                    "y": 259.13091308703497,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 562.9846310392954,
+                    "y": 255.10100716628344,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 564.2962913144534,
+                    "y": 250.94095225512604,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.2403876506104,
+                    "y": 246.6824088833465,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.8097349045872,
+                    "y": 242.35778713738293,
+                    "direction": 0,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.8097349045872,
+                    "y": 233.6422128626171,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 565.2403876506104,
+                    "y": 229.3175911166535,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 564.2962913144534,
+                    "y": 225.05904774487396,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 562.9846310392954,
+                    "y": 220.89899283371656,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 561.3153893518326,
+                    "y": 216.86908691296503,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 559.3012701892219,
+                    "y": 213,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 556.9576022144496,
+                    "y": 209.3211781824477,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 554.3022221559489,
+                    "y": 205.86061951567302,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 551.3553390593274,
+                    "y": 202.64466094067262,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 548.1393804843269,
+                    "y": 199.6977778440511,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 544.6788218175523,
+                    "y": 197.0423977855504,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 541,
+                    "y": 194.69872981077805,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 537.130913087035,
+                    "y": 192.6846106481675,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 533.1010071662835,
+                    "y": 191.0153689607046,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 528.940952255126,
+                    "y": 189.7037086855466,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 524.6824088833465,
+                    "y": 188.7596123493896,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 520.357787137383,
+                    "y": 188.1902650954127,
+                    "direction": 1,
+                    "hidden": true
+                  },
+                  {
+                    "x": 511.6422128626171,
+                    "y": 188.1902650954127,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 507.3175911166535,
+                    "y": 188.7596123493896,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 503.05904774487396,
+                    "y": 189.7037086855466,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 498.8989928337166,
+                    "y": 191.01536896070456,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 494.86908691296503,
+                    "y": 192.6846106481675,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 491,
+                    "y": 194.69872981077808,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 487.32117818244774,
+                    "y": 197.0423977855504,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 483.860619515673,
+                    "y": 199.6977778440511,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 480.6446609406726,
+                    "y": 202.64466094067262,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 477.6977778440511,
+                    "y": 205.86061951567302,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 475.0423977855504,
+                    "y": 209.32117818244768,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 472.6987298107781,
+                    "y": 212.99999999999997,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 470.6846106481675,
+                    "y": 216.86908691296503,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 469.01536896070456,
+                    "y": 220.89899283371653,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 467.7037086855466,
+                    "y": 225.05904774487396,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.7596123493896,
+                    "y": 229.3175911166535,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.1902650954127,
+                    "y": 233.6422128626171,
+                    "direction": 2,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.1902650954127,
+                    "y": 242.3577871373829,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 466.7596123493896,
+                    "y": 246.6824088833465,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 467.7037086855466,
+                    "y": 250.940952255126,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 469.01536896070456,
+                    "y": 255.10100716628344,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 470.6846106481675,
+                    "y": 259.13091308703497,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 472.69872981077805,
+                    "y": 263,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 475.0423977855504,
+                    "y": 266.6788218175523,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 477.6977778440511,
+                    "y": 270.139380484327,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 480.6446609406726,
+                    "y": 273.3553390593274,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 483.860619515673,
+                    "y": 276.30222215594887,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 487.3211781824477,
+                    "y": 278.9576022144496,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 491,
+                    "y": 281.3012701892219,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 494.86908691296503,
+                    "y": 283.3153893518325,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 498.89899283371653,
+                    "y": 284.98463103929544,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 503.05904774487396,
+                    "y": 286.2962913144534,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 507.3175911166535,
+                    "y": 287.2403876506104,
+                    "direction": 3,
+                    "hidden": true
+                  },
+                  {
+                    "x": 511.6422128626171,
+                    "y": 287.8097349045873,
+                    "direction": 3,
+                    "hidden": true
+                  }
+                ],
+                "animateDuration": 0,
+                "animateFrames": [],
+                "borderRadius": 0,
+                "iconSize": null,
+                "imageAlign": "center",
+                "gradientAngle": 0,
+                "gradientRadius": 0.01,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingLeft": 0,
+                "paddingRight": 0,
+                "paddingLeftNum": 0,
+                "paddingRightNum": 0,
+                "paddingTopNum": 0,
+                "paddingBottomNum": 0,
+                "textRect": {
+                  "x": 491,
+                  "y": 249.66666666666669,
+                  "width": 50,
+                  "height": 28.333333333333336,
+                  "center": {
+                    "x": 516,
+                    "y": 263.83333333333337
+                  },
+                  "ex": 541,
+                  "ey": 278
+                },
+                "fullTextRect": {
+                  "x": 480.2857142857143,
+                  "y": 202.28571428571428,
+                  "width": 71.42857142857143,
+                  "height": 71.42857142857143,
+                  "center": {
+                    "x": 516,
+                    "y": 238
+                  },
+                  "ex": 551.7142857142857,
+                  "ey": 273.7142857142857
+                },
+                "iconRect": {
+                  "x": 491,
+                  "y": 198,
+                  "width": 50,
+                  "height": 50,
+                  "center": {
+                    "x": 516,
+                    "y": 223
+                  },
+                  "ex": 541,
+                  "ey": 248
+                }
+              }
+            ],
+            "lines": [],
+            "lineName": "curve",
+            "fromArrowType": "",
+            "toArrowType": "triangleSolid",
+            "scale": 1,
+            "locked": 0
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}
